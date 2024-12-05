@@ -1,0 +1,23 @@
+**rebuild the app *for-new devices
+eas build --profile development --platform android
+
+
+run the project***
+npx expo start --dev-client
+
+
+
+
+//dependencies
+npm i react-native-animated-loader
+npm install --save react-native-indicators
+npm i @react-native-async-storage/async-storage
+npm i react-native-alert-notification
+npx expo install @react-native-google-signin/google-signin
+npm i @react-native-firebase/auth
+npm i @react-native-firebase/app
+
+
+
+
+
